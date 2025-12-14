@@ -32,5 +32,5 @@ This repository contains a refresher project, to do some practice in managing sm
 ![image alt](https://github.com/aaliyeah/sales_practice/blob/686f59a911bdd25aa90edc58b68bbc156e190aa5/Table.jpg)
 - Table
 ![image alt](https://github.com/aaliyeah/sales_practice/blob/686f59a911bdd25aa90edc58b68bbc156e190aa5/Table%20(1).jpg)
-- Raw File
+- Original File
 ![image alt](https://github.com/aaliyeah/sales_practice/blob/686f59a911bdd25aa90edc58b68bbc156e190aa5/Original%20File.jpg)
