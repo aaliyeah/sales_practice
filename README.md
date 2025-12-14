@@ -18,8 +18,8 @@ This repository contains a refresher project, to do some practice in managing sm
        Text-to-Column
 - Formulas and Functions
        Vlookup 
-       Xlookup
-       IF 
+       IF
+       Basic Mathematical Formula
 - Data Summarization (Pivot Tables)
 - Data Visualization (Dashboards)
 
